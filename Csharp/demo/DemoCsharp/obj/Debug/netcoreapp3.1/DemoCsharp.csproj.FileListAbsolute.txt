@@ -1,0 +1,14 @@
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.exe
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.deps.json
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.runtimeconfig.json
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.runtimeconfig.dev.json
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.dll
+D:\Code\CSharp\demo\DemoCsharp\bin\Debug\netcoreapp3.1\DemoCsharp.pdb
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.AssemblyInfoInputs.cache
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.AssemblyInfo.cs
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.dll
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.pdb
+D:\Code\CSharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.genruntimeconfig.cache
+D:\Code\Csharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.csproj.AssemblyReference.cache
+D:\Code\Csharp\demo\DemoCsharp\obj\Debug\netcoreapp3.1\DemoCsharp.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.exe
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.deps.json
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.runtimeconfig.json
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.runtimeconfig.dev.json
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.dll
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\ref\QueueApp.dll
+D:\Code\Csharp\Queue\QueueApp\bin\Debug\net5.0\QueueApp.pdb
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.csproj.AssemblyReference.cache
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.AssemblyInfoInputs.cache
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.AssemblyInfo.cs
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.dll
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\ref\QueueApp.dll
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.pdb
+D:\Code\Csharp\Queue\QueueApp\obj\Debug\net5.0\QueueApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.exe
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.deps.json
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.runtimeconfig.json
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.runtimeconfig.dev.json
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.dll
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\ref\StackPrj.dll
+D:\Code\Csharp\Stack\StackPrj\bin\Debug\net5.0\StackPrj.pdb
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.csproj.AssemblyReference.cache
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.AssemblyInfoInputs.cache
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.AssemblyInfo.cs
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.dll
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\ref\StackPrj.dll
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.pdb
+D:\Code\Csharp\Stack\StackPrj\obj\Debug\net5.0\StackPrj.genruntimeconfig.cache

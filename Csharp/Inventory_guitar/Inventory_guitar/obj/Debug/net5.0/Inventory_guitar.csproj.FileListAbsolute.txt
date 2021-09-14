@@ -1,0 +1,16 @@
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.exe
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.deps.json
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.runtimeconfig.json
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.runtimeconfig.dev.json
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.dll
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\ref\Inventory_guitar.dll
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\bin\Debug\net5.0\Inventory_guitar.pdb
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.csproj.AssemblyReference.cache
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.AssemblyInfoInputs.cache
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.AssemblyInfo.cs
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.dll
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\ref\Inventory_guitar.dll
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.pdb
+D:\Code\CSharp\Inventory_guitar\Inventory_guitar\obj\Debug\net5.0\Inventory_guitar.genruntimeconfig.cache

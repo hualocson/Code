@@ -1,0 +1,16 @@
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.exe
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.deps.json
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.runtimeconfig.json
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.runtimeconfig.dev.json
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.dll
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\ref\IEnumerableApp.dll
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\bin\Debug\net5.0\IEnumerableApp.pdb
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.csproj.AssemblyReference.cache
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.AssemblyInfoInputs.cache
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.AssemblyInfo.cs
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.dll
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\ref\IEnumerableApp.dll
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.pdb
+D:\Code\Csharp\IEnumerableAndReadFile\IEnumerableApp\obj\Debug\net5.0\IEnumerableApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.exe
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.deps.json
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.runtimeconfig.json
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.runtimeconfig.dev.json
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.dll
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\ref\Array2DApp.dll
+D:\Code\Csharp\Array2D\Array2DApp\bin\Debug\net5.0\Array2DApp.pdb
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.csproj.AssemblyReference.cache
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.AssemblyInfoInputs.cache
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.AssemblyInfo.cs
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.dll
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\ref\Array2DApp.dll
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.pdb
+D:\Code\Csharp\Array2D\Array2DApp\obj\Debug\net5.0\Array2DApp.genruntimeconfig.cache
