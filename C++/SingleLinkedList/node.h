@@ -16,6 +16,8 @@ public:
   void setNext(Node<T> *);
   Node<T> *getNext();
 
+  bool Equal(Node<T> *);
+
   std::string toString();
 };
 

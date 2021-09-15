@@ -75,6 +75,140 @@ template <class T> T *SingleLinkedList<T>::peekLast() {
 }
 /* ================= End Define get element =============*/
 
+/* ================= Define remove Element =============*/
+template <class T> T *SingleLinkedList<T>::removeFirst() {
+  if (isEmpty())
+    throw std::out_of_range("Empty Linked List!");
+  T *data = head->getData();
+  Node<T> *temp = head;
+  head = head->getNext();
+
+  /* remove node */
+  temp->setNext(nullptr);
+  free(temp);
+  size--;
+
+  return data;
+}
+
+template <class T> T *SingleLinkedList<T>::removeLast() {
+  if (isEmpty())
+    throw std::out_of_range("Empty Linked List!");
+  Node<T> *currentNode = head;
+  /* previous last node */
+  Node<T> *prevNode = head;
+  while (currentNode->getNext() != nullptr) {
+    prevNode = currentNode;
+    currentNode = currentNode->getNext();
+  }
+
+  T *data = currentNode->getData();
+
+  /* set prev last node point to null */
+  prevNode->setNext(nullptr);
+  /* remove node */
+  free(currentNode);
+  size--;
+
+  return data;
+}
+
+template <class T> T *SingleLinkedList<T>::remove(Node<T> *node) {
+  /* node is head */
+  if (node->Equal(head))
+    return removeFirst();
+  /* node is tail*/
+  if (node->getNext() == nullptr)
+    return removeLast();
+  Node<T> *currentNode = head;
+  Node<T> *prevNode = head;
+  while (currentNode != nullptr) {
+    prevNode = currentNode;
+    currentNode = currentNode->getNext();
+    if (currentNode->Equal(node))
+      break;
+  }
+  prevNode->setNext(currentNode->getNext());
+  /* remove node */
+  currentNode->setNext(nullptr);
+  free(currentNode);
+  size--;
+
+  T *data = node->getData();
+  return data;
+}
+
+template <class T> bool SingleLinkedList<T>::remove(T *obj) {
+  Node<T> *currentNode = head;
+  if (obj == nullptr) {
+    while (currentNode != nullptr) {
+      if (currentNode->getData() == nullptr) {
+        remove(currentNode);
+        return true;
+      }
+      currentNode = currentNode->getNext();
+    }
+  } else {
+    while (currentNode != nullptr) {
+      if (*currentNode->getData() == *obj) {
+        remove(currentNode);
+        return true;
+      }
+      currentNode = currentNode->getNext();
+    }
+  }
+  return false;
+}
+
+template <class T> T *SingleLinkedList<T>::removeAt(int index) {
+  if (index < 0 || index > size)
+    throw std::out_of_range("Index is illegal!");
+  Node<T> *currentNode = head;
+  int i = 0;
+  while (i != index) {
+    currentNode = currentNode->getNext();
+    i++;
+  }
+  return remove(currentNode);
+}
+
+/* ================= End Define remove element =============*/
+
+template <class T> int SingleLinkedList<T>::indexOf(T *obj) {
+  int index = 0;
+  Node<T> *currentNode = head;
+
+  if (obj == nullptr) {
+    while (currentNode != nullptr) {
+      if (currentNode->getData() == nullptr) {
+        return index;
+      }
+      currentNode = currentNode->getNext();
+      index++;
+    }
+  } else {
+    while (currentNode != nullptr) {
+      if (*currentNode->getData() == *obj) {
+        return index;
+      }
+      currentNode = currentNode->getNext();
+      index++;
+    }
+  }
+  return -1;
+}
+
+template <class T> void SingleLinkedList<T>::Print() {
+  Node<T> *currentNode = head;
+  while (currentNode != nullptr) {
+    std::cout << currentNode << " " << std::endl;
+    currentNode = currentNode->getNext();
+  }
+}
+
+template <class T> bool SingleLinkedList<T>::contains(T *obj) {
+  return (bool)(indexOf(obj) == -1);
+}
 template <class T> std::string SingleLinkedList<T>::toString() {
   if (isEmpty())
     return "[]";

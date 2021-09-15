@@ -11,7 +11,11 @@ int main() {
   demo->add(&str2);
   demo->addFirst(&str3);
   cout << demo->toString() << endl;
-  cout << *demo->peekFirst() << endl;
-  cout << *demo->peekLast() << endl;
+  /* cout << *demo->removeFirst() << endl; */
+  int ind = demo->indexOf(&str1);
+  cout << ind << endl;
+  cout << *demo->removeAt(ind) << endl;
+  cout << demo->toString() << endl;
+  demo->Print();
   return 0;
 }

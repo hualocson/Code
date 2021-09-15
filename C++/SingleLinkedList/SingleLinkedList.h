@@ -24,6 +24,15 @@ public:
 
   /* remove element */
   T *removeFirst();
+  T *removeLast();
+  T *remove(Node<T> *);
+  bool remove(T *);
+  T *removeAt(int);
+
+  int indexOf(T *);
+  bool contains(T *);
+
+  void Print();
 
   std::string toString();
 };
